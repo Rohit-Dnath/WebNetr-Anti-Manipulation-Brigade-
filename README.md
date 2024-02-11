@@ -19,12 +19,12 @@ User Feedback: Users can report dark patterns that they encounter.
 User Reviews: Users can view reviews of e-commerce websites and their dark patterns.
 WebSaathi: A chatbot that can help users with their queries and provide information about dark patterns.
 Technologies Used 🛠️:
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript 
 Backend: Flask
 Pattern Ditection Model: joblib, kaggler, pandas, numpy, scikit-learn
 Installation 🛠️:
 Clone the repository
-git clone https://github.com/Akash-nath29/WebNetr.git
+git clone https://github.com/Rohit-Dnath/WebNetr.git
 Change the directory
 cd api
 Install the required packages
