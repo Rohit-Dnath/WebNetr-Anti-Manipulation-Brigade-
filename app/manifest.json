@@ -1,0 +1,36 @@
+{
+    "manifest_version": 3,
+    "name": "WebNetr",
+    "version": "1.0",
+    "description": "WebNetr stops websites from tricking you! ‍♀ It detects hidden manipulation tactics & empowers you to make informed choices online.  Download today & browse freely!",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "logo123.png",
+            "48": "logo123.png",
+            "128": "logo123.png"
+        }
+    },
+    "content_scripts": [{
+        "matches": [
+            "<all_urls>"
+        ],
+        "js": [
+            "js/common.js",
+            "js/block_segment.js",
+            "js/content.js"
+        ],
+        "css": [
+            "css/insite.css"
+        ],
+        "run_at": "document_end"
+    }],
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "storage"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ]
+}
