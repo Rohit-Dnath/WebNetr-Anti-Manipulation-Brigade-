@@ -5,9 +5,9 @@
 Our Model is still under development and training. So it is not 100% correct. We won't be responsible for any kind of wrong prediction.
 
 # Contributors 👨‍🏫:
+- [Rohit Debnath](https://github.com/Rohit-Dnath)
 - [Akash Nath](https://github.com/Akash-nath29)
 - [Chirag Nahata](https://github.com/chiragnahata)
-- [Rohit Debnath](https://github.com/Rohit-Dnath)
 - [Snigdha Ghosh](https://github.com/snig-code16)
 - Srijita Saha
 
@@ -28,7 +28,7 @@ Dark patterns are user interfaces designed to trick people. They are carefully c
 # Installation 🛠️:
 1. Clone the repository
 ```bash
-git clone https://github.com/Akash-nath29/WebNetr.git
+git clone https://github.com/Rohit-Dnath/WebNetr.git
 ```
 2. Change the directory
 ```bash
@@ -80,8 +80,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 ![demo2](https://github.com/Akash-nath29/WebNetr/assets/100131577/08aebf95-efe6-4ab0-8e47-1f2af869f423)
 
 # Contact 📧:
-- Akash Nath: [LinkedIn](https://www.linkedin.com/in/akash-nath-29/)
-- Chirag Nahata: [LinkedIn](https://www.linkedin.com/in/chirag-nahata/)
 - Rohit Debnath: [LinkedIn](https://www.linkedin.com/in/rohit-debnath-518201290/)
+- Chirag Nahata: [LinkedIn](https://www.linkedin.com/in/chirag-nahata/)
+- Akash Nath: [LinkedIn](https://www.linkedin.com/in/akash-nath-29/)
 - Snigdha Ghosh: [LinkedIn](https://www.linkedin.com/in/snigdha-ghosh-834435297/)
 - Srijita Saha: [LinkedIn](https://www.linkedin.com/in/srijita-saha-6091232a8/)
