@@ -1,5 +1,5 @@
 # WebNetr 👁️
-### An online browsing helping hand to tackle and manage dark patterns on e-commerce websites.
+### WebNetr stops websites from tricking you! ️‍♀️ It detects hidden manipulation tactics & empowers you to make informed choices online.
 
 # Disclaimer 🛑:
 Our Model is still under development and training. So it is not 100% correct. We won't be responsible for any kind of wrong prediction.
